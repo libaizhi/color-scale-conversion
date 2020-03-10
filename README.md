@@ -1,3 +1,3 @@
 # color-scale-conversion
 
-decToRgba
+decToRgba rgbToHex hexToDec
