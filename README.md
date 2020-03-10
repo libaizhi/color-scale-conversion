@@ -1,1 +1,3 @@
 # color-scale-conversion
+
+decToRgba
