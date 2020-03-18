@@ -3,4 +3,4 @@
 decToRgba(),rgbToHex(),hexToDec()
 
 screenshot：
-![screenshot](/screenshot.png)
+![screenshot](https://github.com/libaizhi/color-scale-conversion/raw/master/screenshot.png)
